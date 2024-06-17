@@ -16,6 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Goal
-Please write your favorite places in Japan below.
+Please write your favorite places in Japan below.</br>
 ・Todaiji Temple</br>
 ・Ginkaku Temple</br>

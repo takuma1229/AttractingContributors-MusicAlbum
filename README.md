@@ -23,5 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # GOAL
 Please write your favorite sports below.
 
-Tennis<\br>
+Tennis</br>
 Climbing

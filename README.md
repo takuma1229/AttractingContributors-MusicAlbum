@@ -26,5 +26,4 @@ I want you to add your favorite artist on the list below
 # Your favorite Artist
  Mrs. GREEN APPLE
  go!go!vanillas
-
-
+ BABYMETAL

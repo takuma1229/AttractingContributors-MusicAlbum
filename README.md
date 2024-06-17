@@ -16,5 +16,5 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Goal
-Please write your favorite places in Nara below.
+Please write your favorite places in Japan below.
 1. Todaiji Temple

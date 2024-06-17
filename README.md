@@ -20,4 +20,5 @@ Goal - I want contributors to help me list some favorite programming languages.
 
 # List of Languages.
 1. Python
-2. Ruby
+2. Rust
+3. Ruby

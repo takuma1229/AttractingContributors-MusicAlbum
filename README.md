@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please write your favorite sports below.
 
 Tennis
+Climbing

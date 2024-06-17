@@ -17,5 +17,5 @@ To complete the assignment, please do the following:
 
 # Goal
 Please write your favorite places in Japan below.
-1. Todaiji Temple
-2. Ginkaku Temple
+・Todaiji Temple
+・Ginkaku Temple

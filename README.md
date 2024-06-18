@@ -18,4 +18,5 @@ To complete the assignment, please do the following:
 # Goal
 Please write your favorite Japanese Anime below.
 1. Dragon Ball
-2. NARUTO
+2. DORAEMON
+3. NARUTO

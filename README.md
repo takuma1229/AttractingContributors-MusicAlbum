@@ -22,3 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Albums
 1. YANKEE - Kenshi Yonezu
+2. Music to Be Murdered By - Eminem
+

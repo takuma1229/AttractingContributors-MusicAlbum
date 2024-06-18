@@ -28,3 +28,5 @@ I want you to add your favorite artist on the list below
  go!go!vanillas
  BABYMETAL
  haruka nakamura
+ Eminem
+

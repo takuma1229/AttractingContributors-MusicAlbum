@@ -1,4 +1,18 @@
 # Attracting Contributors
+This repository collects and analyzes survey responses about 20th-century books to promote interest, gather feedback, and build a community for an assignment.
+# The Strict Rule
+Share only 20th-century books
+# How to 
+1. git remote add 20-books https://github.com/KiyotadaMori/AttractingContributors-20th_century_books
+2. git fetch 20-books
+4. git checkout -b add-books-YOURNAME 20-books/main
+5. Add your favourite books.
+6. git add README.md
+7. git commit -m "add 20-books"
+8. git push origin add-books-YOURNAME 
+9. click "Compare and pull request" and "Create Pull Request"
+
+# Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules

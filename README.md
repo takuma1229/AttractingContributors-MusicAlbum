@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Albums
 1. YANKEE - Kenshi Yonezu
 2. No Shame - Lily Allen
+3. BABYMETAL - BABYMETAL

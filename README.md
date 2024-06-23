@@ -28,5 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Parsley, Sage, Rosemary and Thyme - Simon & Garfunkel
 6. Throb (躍動)　- The Symphony Hall Big Band
 7. Music to Be Murdered By - Eminem7. 
-
-
+8. To pimp a Butterfly - Kendrick Lamar

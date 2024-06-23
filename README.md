@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. YANKEE - Kenshi Yonezu
 2. No Shame - Lily Allen
 3. Hikaru Utada Laughter in the Dark Tour 2018
-４. Born This Way - Lady Gaga mai
+4. Born This Way - Lady Gaga mai
 5. Parsley, Sage, Rosemary and Thyme - Simon & Garfunkel
 6. Throb (躍動)　- The Symphony Hall Big Band
 7. Music to Be Murdered By - Eminem 

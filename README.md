@@ -29,4 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Throb (躍動)　- The Symphony Hall Big Band
 7. Music to Be Murdered By - Eminem 
 8. To pimp a Butterfly - Kendrick Lamar
-10. BABYMETAL - BABYMETAL0. ONE PIECE 20th Anniversary BEST ALBUM10
+9. BABYMETAL - BABYMETAL
+10. ONE PIECE 20th Anniversary BEST ALBUM10

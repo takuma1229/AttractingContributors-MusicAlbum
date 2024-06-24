@@ -3,7 +3,6 @@ Tell me your favourite music albums!
 Add an album to `README.md` and send me pull request:)
 
 # How to make Pull Request to my repository
-## How to make Pull Request to my repository
 1. On your editor, move to your repository which you forked from NAIST-SE
 2. `git remote add music-album https://github.com/takuma1229/AttractingContributors-MusicAlbum.git`
 3. `git fetch music-album`

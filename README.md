@@ -37,3 +37,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of 20th-century books
 1. Nineteen Eighty-Four, George Orwell
 2. Japanese writing techniques, Katsuichi Honda
+3. "Brave New World" by Aldous Huxley

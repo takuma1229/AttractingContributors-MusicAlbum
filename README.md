@@ -38,3 +38,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Nineteen Eighty-Four, George Orwell
 2. Japanese writing techniques, Katsuichi Honda
 3. "Brave New World" by Aldous Huxley
+4. The Tale of the 15 Castaway Boys, Jules Verne

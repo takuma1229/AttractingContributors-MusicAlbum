@@ -39,3 +39,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Japanese writing techniques, Katsuichi Honda
 3. "Brave New World" by Aldous Huxley
 4. The Tale of the 15 Castaway Boys, Jules Verne
+5. Canon of Sherlock Holmes Sir Arthur Conan Doyle.
+

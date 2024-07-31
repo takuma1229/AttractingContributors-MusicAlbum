@@ -40,4 +40,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. "Brave New World" by Aldous Huxley
 4. The Tale of the 15 Castaway Boys, Jules Verne
 5. Canon of Sherlock Holmes Sir Arthur Conan Doyle.
-6. Salamander and Other Stories(Sanshouo) by Masuji Ibuse
+6. Harry Potter and the Philosopher's Stone
+7. Salamander and Other Stories(Sanshouo) by Masuji Ibuse

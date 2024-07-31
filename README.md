@@ -5,14 +5,13 @@ Open Source Projects start and try to attract potential contributions.
 
 # How to
 
-1. git clone https://github.com/i17oonaka-h/Favorite-manga.git
-2. cd Favorite-manga
-3. git checkout -b add-manga-YOURNAME fav-manga/main
-4. Add your favourite manga.
-5. git add README.md
-6. git commit -m "add fav manga"
-7. git push origin add-manga-YOURNAME
-8. click "Compare and pull request" and "Create Pull Request"
+1. git remote fav-manga https://github.com/i17oonaka-h/Favorite-manga.git
+2. git checkout -b add-manga-YOURNAME fav-manga/main
+3. Add your favourite manga.
+4. git add README.md
+5. git commit -m "add fav manga"
+6. git push origin add-manga-YOURNAME
+7. click "Compare and pull request" and "Create Pull Request"
 
 # Rules
 

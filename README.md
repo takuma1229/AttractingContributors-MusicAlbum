@@ -28,3 +28,4 @@ Add an album to `README.md` and send me pull request:)
 8. To pimp a Butterfly - Kendrick Lamar
 9. BABYMETAL - BABYMETAL
 10. ONE PIECE 20th Anniversary BEST ALBUM10
+11. Melodrama - Lorde
